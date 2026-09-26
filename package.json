@@ -1,0 +1,12 @@
+{
+  "name": "premice",
+  "version": "1.0.0",
+  "description": "PREMICE - Plateforme d'achat et de vente en ligne à Lubumbashi",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
